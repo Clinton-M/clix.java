@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/clinton.jdk.iml" filepath="$PROJECT_DIR$/clinton.jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios/ejercicios.iml" filepath="$PROJECT_DIR$/ejercicios/ejercicios.iml" />
     </modules>
   </component>
 </project>
