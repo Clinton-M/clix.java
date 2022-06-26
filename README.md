@@ -1,1 +1,1 @@
-Aqui te dejo ejercicios resueltos de 11 al 20
+Aqui te dejo ejercicios resueltos de 11 al 20.
