@@ -33,10 +33,10 @@ public class ejercicio15 {
             }
         }
         medio =(n1+n2+n3)-(mayor+menor);
-        System.out.println("ascendente:" + mayor + medio + menor );
+        System.out.println("descendente:" + mayor + medio + menor );
 
         System.out.println("");
-        System.out.println("descendente:" + menor + medio + mayor );
+        System.out.println("ascendente:" + menor + medio + mayor );
 
     }
 }

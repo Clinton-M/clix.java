@@ -10,11 +10,12 @@ public class ejercicio12 {
         System.out.println("segundo valor:");
         int val2= entrada.nextInt();
 
-        if (val1>val2 ){
-            System.out.println("el mayor es: " + val1);
-        }else if (val2>val1){
-            System.out.println("el mayor es: " + val2);
+        if  (val1<val2){
+            System.out.println("el menor es:" + val1);
+        }else {
+            if (val2 < val1) {
+                System.out.println("el menor es: " + val2);
+            }
         }
-
     }
 }
