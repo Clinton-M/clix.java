@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Estructura_selectiva_multiple/Estructuras_multiples_electiva.iml" filepath="$PROJECT_DIR$/Estructura_selectiva_multiple/Estructuras_multiples_electiva.iml" />
       <module fileurl="file://$PROJECT_DIR$/ayudas/ayudas.iml" filepath="$PROJECT_DIR$/ayudas/ayudas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucles while y  do while  for/bucles while y  do while.iml" filepath="$PROJECT_DIR$/bucles while y  do while  for/bucles while y  do while.iml" />
       <module fileurl="file://$PROJECT_DIR$/clinton.jdk.iml" filepath="$PROJECT_DIR$/clinton.jdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejercicios/ejercicios.iml" filepath="$PROJECT_DIR$/ejercicios/ejercicios.iml" />
     </modules>
