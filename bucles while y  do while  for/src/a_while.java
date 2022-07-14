@@ -1,4 +1,4 @@
-public class while01 {
+public class a_while {
     public static void main(String[] args) {
         //var contador = 0
         //mientras (contador mayor a cero)
